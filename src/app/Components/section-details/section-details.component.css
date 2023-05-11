@@ -47,3 +47,8 @@
     margin-left: 10px;
     border-radius: 10px;
   }
+
+  .fixed-image {
+    width: 400px;
+    height: 420px;
+}
